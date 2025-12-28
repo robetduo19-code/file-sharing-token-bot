@@ -1,0 +1,9 @@
+{
+  "name": "File Sharing Token Bot",
+  "env": {
+    "TG_BOT_TOKEN": { "required": true },
+    "DATABASE_URL": { "required": true },
+    "OWNER_ID": { "required": true },
+    "ADMIN_KEY": { "required": true }
+  }
+}
